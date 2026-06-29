@@ -1,16 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,24,25&height=180&section=header&text=Premsai%20J%20S&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI%20and%20ML%20Undergrad&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,24,25&height=180&section=header&text=Premsai%20J%20S&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI%20and%20ML%20Undergraduate&descAlignY=62&descSize=18" width="100%"/>
 
 [LinkedIn](https://linkedin.com/in/premsai-j-s) · [Email](mailto:premsai12207@gmail.com) · [GitHub](https://github.com/premsaijs)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=premsaijs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=2EE6A6&center=true&vCenter=true&width=900&height=60&lines=AI+and+ML+Undergrad;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Open+to+Internship+Opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=2EE6A6&center=true&vCenter=true&width=700&height=60&lines=AI+%26+ML+Undergraduate;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Open+to+SWE+%26+ML+Internships" alt="Typing SVG"/>
 
 </div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+* 🎓 B.E. in Artificial Intelligence & Machine Learning at New Horizon College of Engineering, Bengaluru
+* 💻 Interested in Software Engineering, Machine Learning, and AI Systems
+* 🌱 Currently learning Data Structures & Algorithms, Full Stack Development, and Machine Learning
+* 🚀 Seeking Software Engineering and Machine Learning Internship opportunities
+* 📫 Reach me at: **[premsai12207@gmail.com](mailto:premsai12207@gmail.com)**
 
 <br/>
 
@@ -48,15 +62,17 @@
 
 </div>
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/premsaijs">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=premsaijs&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2ee6a6&icon_color=4dd0e1&text_color=c9d1d9&border_radius=10"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Premsai-JS&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2ee6a6&icon_color=4dd0e1&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/premsaijs">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premsaijs&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=2ee6a6&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premsai-JS&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=2ee6a6&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 <br/>
@@ -115,10 +131,12 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Hybrid AI Customer Support System](https://github.com/premsaijs)** | Python · Streamlit · Sentence Transformers · FAISS · FLAN-T5 | Semantic search over a knowledge base via vector embeddings · FAISS-powered similarity retrieval · FLAN-T5 generates context-aware responses for unseen queries · Real-time Streamlit dashboard |
-| **[Smart Code Complexity Analyzer](https://github.com/premsaijs)** | Java · Java Swing · OOP · File Handling | Static analysis engine detecting classes, methods, loops & recursion · Cyclomatic Complexity scoring across 6 classes (O(1) → O(n³)) · Dark-themed UI with report export |
+| **[Hybrid AI Customer Support System](https://github.com/preetamkamate/ai-customer-help)** | Python · Streamlit · Sentence Transformers · FAISS · FLAN-T5 | Semantic search over a knowledge base via vector embeddings · FAISS-powered similarity retrieval · FLAN-T5 generates context-aware responses for unseen queries · Real-time Streamlit dashboard |
+| **[Smart Code Complexity Analyzer](https://github.com/premsaijs/code-complexity-analyzer)** | Java · Java Swing · OOP · File Handling | Static analysis engine detecting classes, methods, loops & recursion · Cyclomatic Complexity scoring across multiple complexity classes · Dark-themed UI with report export |
 
 </div>
+
+
 
 ## 🏅 Achievements
 
