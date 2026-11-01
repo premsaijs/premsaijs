@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,24,25&height=180&section=header&text=Premsai%20J%20S&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI%20and%20ML%20Undergraduate&descAlignY=62&descSize=18" width="100%"/>
 
-[LinkedIn](https://linkedin.com/in/premsai-j-s) · [Email](mailto:premsai12207@gmail.com) · [GitHub](https://github.com/premsaijs)
+[LinkedIn](https://www.linkedin.com/in/premsai-j-s-294341357/) · [Email](mailto:premsai12207@gmail.com) · [GitHub](https://github.com/premsaijs)
 
 <br/>
 
